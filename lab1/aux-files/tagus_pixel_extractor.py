@@ -15,4 +15,4 @@ for d in range(max_coord + 1):
             data.append(pixels[x, y])
 im7 = Image.new(im.mode, (1000,1000))
 im7.putdata(data)
-im7.save("./tagusCOOL7.png")
+im7.save("./tagus_secret.png")
