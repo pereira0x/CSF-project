@@ -5,3 +5,4 @@ video.recovered: just a troll move, don't mind it
 Passwords.kdbx: password-manager stuff that still needs to be cracked
 cache_firefox: proof that he visited "tripadvisor" (probably regarding the flights to switzerland)
 PicturesFolder: all that was found on the pictures folder of his home directory
+bash_history: latest commands that he executed on his local machine
