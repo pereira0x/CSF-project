@@ -1,0 +1,7 @@
+poster.pdf: secret that was already found on lab1 on the sigma cluster
+thrones.pdf: secret that was already found on lab1 on the sigma cluster
+User_Manual.pdf: manual sobre o software de telimetria da Ariane-6
+video.recovered: just a troll move, don't mind it
+Passwords.kdbx: password-manager stuff that still needs to be cracked
+cache_firefox: proof that he visited "tripadvisor" (probably regarding the flights to switzerland)
+PicturesFolder: all that was found on the pictures folder of his home directory
