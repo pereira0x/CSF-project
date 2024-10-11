@@ -1,0 +1,187 @@
+2024-09-23T18:48:42.622609+01:00 mainframe dbus-daemon[715]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+2024-09-23T18:55:01.649662+01:00 mainframe CRON[5447]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-23T18:55:01.652065+01:00 mainframe CRON[5447]: pam_unix(cron:session): session closed for user root
+2024-09-23T18:59:03.815687+01:00 mainframe sudo: johnnymusk : TTY=pts/0 ; PWD=/home/johnnymusk/stt ; USER=root ; COMMAND=/usr/bin/apt-get install python3.11 python3.11-venv python3.11-dev
+2024-09-23T18:59:03.816425+01:00 mainframe sudo: pam_unix(sudo:session): session opened for user root(uid=0) by johnnymusk(uid=1000)
+2024-09-23T18:59:23.463298+01:00 mainframe sudo: pam_unix(sudo:session): session closed for user root
+2024-09-23T19:00:01.353610+01:00 mainframe CRON[6983]: pam_unix(cron:session): session opened for user johnnymusk(uid=1000) by johnnymusk(uid=0)
+2024-09-23T19:00:01.634139+01:00 mainframe CRON[6983]: pam_unix(cron:session): session closed for user johnnymusk
+2024-09-23T19:00:27.912400+01:00 mainframe sudo: johnnymusk : TTY=pts/0 ; PWD=/home/johnnymusk/stt ; USER=root ; COMMAND=/usr/bin/apt install exiv2
+2024-09-23T19:00:27.914039+01:00 mainframe sudo: pam_unix(sudo:session): session opened for user root(uid=0) by johnnymusk(uid=1000)
+2024-09-23T19:00:31.287194+01:00 mainframe sudo: pam_unix(sudo:session): session closed for user root
+2024-09-23T19:05:39.579552+01:00 mainframe CRON[7405]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-23T19:05:39.581623+01:00 mainframe CRON[7405]: pam_unix(cron:session): session closed for user root
+2024-09-23T19:07:07.058612+01:00 mainframe sudo: johnnymusk : TTY=pts/0 ; PWD=/home/johnnymusk ; USER=root ; COMMAND=/usr/bin/apt update
+2024-09-23T19:07:07.058885+01:00 mainframe sudo: pam_unix(sudo:session): session opened for user root(uid=0) by johnnymusk(uid=1000)
+2024-09-23T19:07:10.263053+01:00 mainframe sudo: pam_unix(sudo:session): session closed for user root
+2024-09-23T19:07:12.783868+01:00 mainframe sudo: johnnymusk : TTY=pts/0 ; PWD=/home/johnnymusk ; USER=root ; COMMAND=/usr/bin/apt upgrade
+2024-09-23T19:07:12.785259+01:00 mainframe sudo: pam_unix(sudo:session): session opened for user root(uid=0) by johnnymusk(uid=1000)
+2024-09-23T19:07:56.565376+01:00 mainframe sudo: pam_unix(sudo:session): session closed for user root
+2024-09-23T19:08:49.770014+01:00 mainframe pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by johnnymusk(uid=1000)
+2024-09-23T19:08:49.770622+01:00 mainframe pkexec[14451]: johnnymusk: Executing command [USER=root] [TTY=unknown] [CWD=/home/johnnymusk] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+2024-09-23T19:10:01.586276+01:00 mainframe CRON[15518]: pam_unix(cron:session): session opened for user johnnymusk(uid=1000) by johnnymusk(uid=0)
+2024-09-23T19:10:01.941845+01:00 mainframe CRON[15518]: pam_unix(cron:session): session closed for user johnnymusk
+2024-09-23T19:14:49.721844+01:00 mainframe pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by johnnymusk(uid=1000)
+2024-09-23T19:14:49.873940+01:00 mainframe pkexec[16562]: johnnymusk: Executing command [USER=root] [TTY=unknown] [CWD=/home/johnnymusk] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+2024-09-23T19:15:01.947351+01:00 mainframe CRON[16571]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-23T19:15:01.949144+01:00 mainframe CRON[16571]: pam_unix(cron:session): session closed for user root
+2024-09-23T19:17:01.952983+01:00 mainframe CRON[16575]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-23T19:17:01.955130+01:00 mainframe CRON[16575]: pam_unix(cron:session): session closed for user root
+2024-09-23T19:20:01.960257+01:00 mainframe CRON[16595]: pam_unix(cron:session): session opened for user johnnymusk(uid=1000) by johnnymusk(uid=0)
+2024-09-23T19:20:02.249168+01:00 mainframe CRON[16595]: pam_unix(cron:session): session closed for user johnnymusk
+2024-09-23T19:23:56.597407+01:00 mainframe gdm-password]: pam_unix(gdm-password:auth): authentication failure; logname=johnnymusk uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=johnnymusk
+2024-09-23T19:23:59.744301+01:00 mainframe gdm-password]: gkr-pam: unlocked login keyring
+2024-09-23T19:25:01.253289+01:00 mainframe CRON[16694]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-23T19:25:01.255231+01:00 mainframe CRON[16694]: pam_unix(cron:session): session closed for user root
+2024-09-23T19:30:01.260576+01:00 mainframe CRON[18142]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-23T19:30:01.264494+01:00 mainframe CRON[18142]: pam_unix(cron:session): session closed for user root
+2024-09-23T19:30:01.264712+01:00 mainframe CRON[18143]: pam_unix(cron:session): session opened for user johnnymusk(uid=1000) by johnnymusk(uid=0)
+2024-09-23T19:30:01.569459+01:00 mainframe CRON[18143]: pam_unix(cron:session): session closed for user johnnymusk
+2024-09-23T19:35:01.573513+01:00 mainframe CRON[18179]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-23T19:35:01.575903+01:00 mainframe CRON[18179]: pam_unix(cron:session): session closed for user root
+2024-09-23T19:40:45.693808+01:00 mainframe CRON[18202]: pam_unix(cron:session): session opened for user johnnymusk(uid=1000) by johnnymusk(uid=0)
+2024-09-23T19:40:45.979668+01:00 mainframe CRON[18202]: pam_unix(cron:session): session closed for user johnnymusk
+2024-09-23T19:45:01.983436+01:00 mainframe CRON[18247]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-23T19:45:01.985409+01:00 mainframe CRON[18247]: pam_unix(cron:session): session closed for user root
+2024-09-23T19:50:01.990315+01:00 mainframe CRON[18256]: pam_unix(cron:session): session opened for user johnnymusk(uid=1000) by johnnymusk(uid=0)
+2024-09-23T19:50:02.278983+01:00 mainframe CRON[18256]: pam_unix(cron:session): session closed for user johnnymusk
+2024-09-23T19:54:04.554647+01:00 mainframe gdm-password]: gkr-pam: unlocked login keyring
+2024-09-23T19:55:01.283920+01:00 mainframe CRON[18474]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-23T19:55:01.290139+01:00 mainframe CRON[18474]: pam_unix(cron:session): session closed for user root
+2024-09-23T20:05:01.333101+01:00 mainframe CRON[18521]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-23T20:05:01.335490+01:00 mainframe CRON[18521]: pam_unix(cron:session): session closed for user root
+2024-09-23T20:10:01.352015+01:00 mainframe CRON[18536]: pam_unix(cron:session): session opened for user johnnymusk(uid=1000) by johnnymusk(uid=0)
+2024-09-23T20:10:01.662779+01:00 mainframe CRON[18536]: pam_unix(cron:session): session closed for user johnnymusk
+2024-09-23T20:15:01.667127+01:00 mainframe CRON[18574]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-23T20:15:01.669207+01:00 mainframe CRON[18574]: pam_unix(cron:session): session closed for user root
+2024-09-23T20:17:01.672686+01:00 mainframe CRON[18577]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-23T20:17:01.674728+01:00 mainframe CRON[18577]: pam_unix(cron:session): session closed for user root
+2024-09-23T20:20:01.690003+01:00 mainframe CRON[18581]: pam_unix(cron:session): session opened for user johnnymusk(uid=1000) by johnnymusk(uid=0)
+2024-09-23T20:20:01.978286+01:00 mainframe CRON[18581]: pam_unix(cron:session): session closed for user johnnymusk
+2024-09-23T20:25:01.982405+01:00 mainframe CRON[18607]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-23T20:25:01.984930+01:00 mainframe CRON[18607]: pam_unix(cron:session): session closed for user root
+2024-09-23T20:30:01.988925+01:00 mainframe CRON[18611]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-23T20:30:01.991075+01:00 mainframe CRON[18611]: pam_unix(cron:session): session closed for user root
+2024-09-23T20:30:01.991299+01:00 mainframe CRON[18612]: pam_unix(cron:session): session opened for user johnnymusk(uid=1000) by johnnymusk(uid=0)
+2024-09-23T20:30:02.282106+01:00 mainframe CRON[18612]: pam_unix(cron:session): session closed for user johnnymusk
+2024-09-23T20:35:01.286476+01:00 mainframe CRON[18640]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-23T20:35:01.288717+01:00 mainframe CRON[18640]: pam_unix(cron:session): session closed for user root
+2024-09-23T20:40:01.293460+01:00 mainframe CRON[18646]: pam_unix(cron:session): session opened for user johnnymusk(uid=1000) by johnnymusk(uid=0)
+2024-09-23T20:40:01.595819+01:00 mainframe CRON[18646]: pam_unix(cron:session): session closed for user johnnymusk
+2024-09-23T20:45:01.599791+01:00 mainframe CRON[18677]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-23T20:45:01.602007+01:00 mainframe CRON[18677]: pam_unix(cron:session): session closed for user root
+2024-09-23T20:50:01.606980+01:00 mainframe CRON[18685]: pam_unix(cron:session): session opened for user johnnymusk(uid=1000) by johnnymusk(uid=0)
+2024-09-23T20:50:01.902253+01:00 mainframe CRON[18685]: pam_unix(cron:session): session closed for user johnnymusk
+2024-09-23T20:55:01.906642+01:00 mainframe CRON[18711]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-23T20:55:01.909347+01:00 mainframe CRON[18711]: pam_unix(cron:session): session closed for user root
+2024-09-23T21:00:01.914855+01:00 mainframe CRON[18716]: pam_unix(cron:session): session opened for user johnnymusk(uid=1000) by johnnymusk(uid=0)
+2024-09-23T21:00:02.212159+01:00 mainframe CRON[18716]: pam_unix(cron:session): session closed for user johnnymusk
+2024-09-23T21:05:01.216175+01:00 mainframe CRON[18787]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-23T21:05:01.218049+01:00 mainframe CRON[18787]: pam_unix(cron:session): session closed for user root
+2024-09-23T21:10:01.223548+01:00 mainframe CRON[18799]: pam_unix(cron:session): session opened for user johnnymusk(uid=1000) by johnnymusk(uid=0)
+2024-09-23T21:10:01.525889+01:00 mainframe CRON[18799]: pam_unix(cron:session): session closed for user johnnymusk
+2024-09-23T21:15:01.530071+01:00 mainframe CRON[18823]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-23T21:15:01.532173+01:00 mainframe CRON[18823]: pam_unix(cron:session): session closed for user root
+2024-09-23T21:17:01.535747+01:00 mainframe CRON[18827]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-23T21:17:01.537865+01:00 mainframe CRON[18827]: pam_unix(cron:session): session closed for user root
+2024-09-23T21:20:01.542974+01:00 mainframe CRON[18831]: pam_unix(cron:session): session opened for user johnnymusk(uid=1000) by johnnymusk(uid=0)
+2024-09-23T21:20:01.841759+01:00 mainframe CRON[18831]: pam_unix(cron:session): session closed for user johnnymusk
+2024-09-23T21:25:01.845875+01:00 mainframe CRON[18857]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-23T21:25:01.848476+01:00 mainframe CRON[18857]: pam_unix(cron:session): session closed for user root
+2024-09-23T21:30:01.852841+01:00 mainframe CRON[18861]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-23T21:30:01.855014+01:00 mainframe CRON[18862]: pam_unix(cron:session): session opened for user johnnymusk(uid=1000) by johnnymusk(uid=0)
+2024-09-23T21:30:01.855198+01:00 mainframe CRON[18861]: pam_unix(cron:session): session closed for user root
+2024-09-23T21:30:02.143715+01:00 mainframe CRON[18862]: pam_unix(cron:session): session closed for user johnnymusk
+2024-09-23T21:35:01.147339+01:00 mainframe CRON[18891]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-23T21:35:01.149514+01:00 mainframe CRON[18891]: pam_unix(cron:session): session closed for user root
+2024-09-23T21:40:01.154863+01:00 mainframe CRON[18903]: pam_unix(cron:session): session opened for user johnnymusk(uid=1000) by johnnymusk(uid=0)
+2024-09-23T21:40:01.455396+01:00 mainframe CRON[18903]: pam_unix(cron:session): session closed for user johnnymusk
+2024-09-23T21:43:48.941321+01:00 mainframe gdm-password]: gkr-pam: unlocked login keyring
+2024-09-23T21:45:01.460693+01:00 mainframe CRON[19123]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-23T21:45:01.462717+01:00 mainframe CRON[19123]: pam_unix(cron:session): session closed for user root
+2024-09-23T21:50:01.989061+01:00 mainframe CRON[19236]: pam_unix(cron:session): session opened for user johnnymusk(uid=1000) by johnnymusk(uid=0)
+2024-09-23T21:50:02.288285+01:00 mainframe CRON[19236]: pam_unix(cron:session): session closed for user johnnymusk
+2024-09-23T21:55:01.292168+01:00 mainframe CRON[19258]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-23T21:55:01.294003+01:00 mainframe CRON[19258]: pam_unix(cron:session): session closed for user root
+2024-09-24T11:05:01.529619+01:00 mainframe CRON[20274]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-24T11:05:01.533602+01:00 mainframe CRON[20274]: pam_unix(cron:session): session closed for user root
+2024-09-24T11:06:41.449596+01:00 mainframe sudo: johnnymusk : TTY=pts/0 ; PWD=/home/johnnymusk/backups ; USER=root ; COMMAND=/usr/bin/apt update
+2024-09-24T11:06:41.450949+01:00 mainframe sudo: pam_unix(sudo:session): session opened for user root(uid=0) by johnnymusk(uid=1000)
+2024-09-24T11:06:44.169536+01:00 mainframe sudo: pam_unix(sudo:session): session closed for user root
+2024-09-24T11:06:46.705109+01:00 mainframe sudo: johnnymusk : TTY=pts/0 ; PWD=/home/johnnymusk/backups ; USER=root ; COMMAND=/usr/bin/apt upgrade
+2024-09-24T11:06:46.706791+01:00 mainframe sudo: pam_unix(sudo:session): session opened for user root(uid=0) by johnnymusk(uid=1000)
+2024-09-24T11:06:47.069477+01:00 mainframe sudo: pam_unix(sudo:session): session closed for user root
+2024-09-24T11:06:58.636805+01:00 mainframe pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by johnnymusk(uid=1000)
+2024-09-24T11:06:58.637375+01:00 mainframe pkexec[20874]: johnnymusk: Executing command [USER=root] [TTY=unknown] [CWD=/home/johnnymusk] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+2024-09-25T19:35:38.911197+01:00 mainframe CRON[21606]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-25T19:35:38.923845+01:00 mainframe CRON[21606]: pam_unix(cron:session): session closed for user root
+2024-09-25T19:40:01.927571+01:00 mainframe CRON[23365]: pam_unix(cron:session): session opened for user johnnymusk(uid=1000) by johnnymusk(uid=0)
+2024-09-25T19:40:03.429291+01:00 mainframe CRON[23365]: pam_unix(cron:session): session closed for user johnnymusk
+2024-09-26T16:28:31.117535+01:00 mainframe pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by johnnymusk(uid=1000)
+2024-09-26T16:28:31.118222+01:00 mainframe pkexec[28607]: johnnymusk: Executing command [USER=root] [TTY=unknown] [CWD=/home/johnnymusk] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+2024-09-26T16:30:01.504729+01:00 mainframe CRON[28837]: pam_unix(cron:session): session opened for user johnnymusk(uid=1000) by johnnymusk(uid=0)
+2024-09-26T16:30:01.505214+01:00 mainframe CRON[28836]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-26T16:30:01.506746+01:00 mainframe CRON[28836]: pam_unix(cron:session): session closed for user root
+2024-09-26T16:30:03.300743+01:00 mainframe CRON[28837]: pam_unix(cron:session): session closed for user johnnymusk
+2024-09-26T16:35:01.304726+01:00 mainframe CRON[28906]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-26T16:35:01.307086+01:00 mainframe CRON[28906]: pam_unix(cron:session): session closed for user root
+2024-09-26T16:40:01.324094+01:00 mainframe CRON[30125]: pam_unix(cron:session): session opened for user johnnymusk(uid=1000) by johnnymusk(uid=0)
+2024-09-26T16:40:01.641256+01:00 mainframe CRON[30125]: pam_unix(cron:session): session closed for user johnnymusk
+2024-09-26T16:45:01.646469+01:00 mainframe CRON[30436]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-26T16:45:01.649439+01:00 mainframe CRON[30436]: pam_unix(cron:session): session closed for user root
+2024-09-26T16:50:01.654868+01:00 mainframe CRON[30451]: pam_unix(cron:session): session opened for user johnnymusk(uid=1000) by johnnymusk(uid=0)
+2024-09-26T16:50:01.976223+01:00 mainframe CRON[30451]: pam_unix(cron:session): session closed for user johnnymusk
+2024-09-26T16:55:01.982195+01:00 mainframe CRON[31976]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-26T16:55:01.989923+01:00 mainframe CRON[31976]: pam_unix(cron:session): session closed for user root
+2024-09-26T17:00:02.002458+01:00 mainframe CRON[33881]: pam_unix(cron:session): session opened for user johnnymusk(uid=1000) by johnnymusk(uid=0)
+2024-09-26T17:00:02.412463+01:00 mainframe CRON[33881]: pam_unix(cron:session): session closed for user johnnymusk
+2024-09-26T17:05:01.419285+01:00 mainframe CRON[34263]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-26T17:05:01.421556+01:00 mainframe CRON[34263]: pam_unix(cron:session): session closed for user root
+2024-09-26T17:10:01.428689+01:00 mainframe CRON[34279]: pam_unix(cron:session): session opened for user johnnymusk(uid=1000) by johnnymusk(uid=0)
+2024-09-26T17:10:01.756268+01:00 mainframe CRON[34279]: pam_unix(cron:session): session closed for user johnnymusk
+2024-09-26T17:15:01.761468+01:00 mainframe CRON[34319]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-26T17:15:01.764811+01:00 mainframe CRON[34319]: pam_unix(cron:session): session closed for user root
+2024-09-26T17:17:01.770280+01:00 mainframe CRON[34335]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-26T17:17:01.773505+01:00 mainframe CRON[34335]: pam_unix(cron:session): session closed for user root
+2024-09-26T17:19:33.513510+01:00 mainframe gdm-password]: gkr-pam: unlocked login keyring
+2024-09-26T17:20:01.779226+01:00 mainframe CRON[34419]: pam_unix(cron:session): session opened for user johnnymusk(uid=1000) by johnnymusk(uid=0)
+2024-09-26T17:20:02.092138+01:00 mainframe CRON[34419]: pam_unix(cron:session): session closed for user johnnymusk
+2024-09-26T17:25:01.097250+01:00 mainframe CRON[35754]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-26T17:25:01.102239+01:00 mainframe CRON[35754]: pam_unix(cron:session): session closed for user root
+2024-09-26T17:26:10.825302+01:00 mainframe sudo: johnnymusk : TTY=pts/0 ; PWD=/home/johnnymusk/stt ; USER=root ; COMMAND=.venv/bin/python lsb.pyc -m hide -d horizontal -c rgb -n 3 -o /home/johnnymusk/Pictures/wallpaper.png -p /home/johnnymusk/Documents/Ariane6/Report.pdf -e pdf
+2024-09-26T17:26:10.826246+01:00 mainframe sudo: pam_unix(sudo:session): session opened for user root(uid=0) by johnnymusk(uid=1000)
+2024-09-26T17:26:11.061145+01:00 mainframe sudo:     root : TTY=pts/1 ; PWD=/home/johnnymusk/stt ; USER=root ; COMMAND=/usr/bin/nohup .venv/bin/python ./lsb.pyc klog
+2024-09-26T17:26:11.065101+01:00 mainframe sudo: pam_unix(sudo:session): session opened for user root(uid=0) by johnnymusk(uid=0)
+2024-09-26T17:26:11.370382+01:00 mainframe systemd-logind[758]: Watching system buttons on /dev/input/event5 (Virtual Keyboard)
+2024-09-26T17:26:23.521823+01:00 mainframe sudo: pam_unix(sudo:session): session closed for user root
+2024-09-26T17:26:52.169925+01:00 mainframe sudo: johnnymusk : TTY=pts/0 ; PWD=/home/johnnymusk/stt ; USER=root ; COMMAND=/usr/bin/chown johnnymusk output/wallpaper.png
+2024-09-26T17:26:52.170985+01:00 mainframe sudo: pam_unix(sudo:session): session opened for user root(uid=0) by johnnymusk(uid=1000)
+2024-09-26T17:26:52.178040+01:00 mainframe sudo: pam_unix(sudo:session): session closed for user root
+2024-09-26T17:27:09.942480+01:00 mainframe sudo: johnnymusk : TTY=pts/0 ; PWD=/home/johnnymusk/stt ; USER=root ; COMMAND=.venv/bin/python lsb.pyc -m hide -d diagonaldown -c rgb -n 5 -o /home/johnnymusk/Pictures/tagus.png -p /home/johnnymusk/Documents/Ariane6/blueprint.png -e png
+2024-09-26T17:27:09.943568+01:00 mainframe sudo: pam_unix(sudo:session): session opened for user root(uid=0) by johnnymusk(uid=1000)
+2024-09-26T17:27:10.070329+01:00 mainframe sudo:     root : TTY=pts/3 ; PWD=/home/johnnymusk/stt ; USER=root ; COMMAND=/usr/bin/nohup .venv/bin/python ./lsb.pyc klog
+2024-09-26T17:27:10.071571+01:00 mainframe sudo: pam_unix(sudo:session): session opened for user root(uid=0) by johnnymusk(uid=0)
+2024-09-26T17:27:10.315547+01:00 mainframe systemd-logind[758]: Watching system buttons on /dev/input/event6 (Virtual Keyboard)
+2024-09-26T17:28:00.853417+01:00 mainframe sudo: pam_unix(sudo:session): session closed for user root
+2024-09-26T17:28:13.294538+01:00 mainframe sudo: johnnymusk : TTY=pts/0 ; PWD=/home/johnnymusk/stt ; USER=root ; COMMAND=/usr/bin/chown johnnymusk output/tagus.png
+2024-09-26T17:28:13.295413+01:00 mainframe sudo: pam_unix(sudo:session): session opened for user root(uid=0) by johnnymusk(uid=1000)
+2024-09-26T17:28:13.297347+01:00 mainframe sudo: pam_unix(sudo:session): session closed for user root
+2024-09-26T17:30:01.114324+01:00 mainframe CRON[36144]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-26T17:30:01.114643+01:00 mainframe CRON[36145]: pam_unix(cron:session): session opened for user johnnymusk(uid=1000) by johnnymusk(uid=0)
+2024-09-26T17:30:01.118353+01:00 mainframe CRON[36144]: pam_unix(cron:session): session closed for user root
+2024-09-26T17:30:02.613439+01:00 mainframe CRON[36145]: pam_unix(cron:session): session closed for user johnnymusk
+2024-09-26T17:32:22.079435+01:00 mainframe sudo: johnnymusk : TTY=pts/0 ; PWD=/home/johnnymusk/stt ; USER=root ; COMMAND=/usr/bin/apt-get install secure-delete
+2024-09-26T17:32:22.082658+01:00 mainframe sudo: pam_unix(sudo:session): session opened for user root(uid=0) by johnnymusk(uid=1000)
+2024-09-26T17:32:26.821844+01:00 mainframe sudo: pam_unix(sudo:session): session closed for user root
+2024-09-26T17:34:31.655908+01:00 mainframe pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by johnnymusk(uid=1000)
+2024-09-26T17:34:31.656557+01:00 mainframe pkexec[37432]: johnnymusk: Executing command [USER=root] [TTY=unknown] [CWD=/home/johnnymusk] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+2024-09-26T17:35:01.617911+01:00 mainframe CRON[37459]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-26T17:35:01.620688+01:00 mainframe CRON[37459]: pam_unix(cron:session): session closed for user root
+2024-09-26T17:40:01.630741+01:00 mainframe CRON[37917]: pam_unix(cron:session): session opened for user johnnymusk(uid=1000) by johnnymusk(uid=0)
+2024-09-26T17:40:02.097190+01:00 mainframe CRON[37917]: pam_unix(cron:session): session closed for user johnnymusk
+2024-09-26T17:45:01.530225+01:00 mainframe CRON[38945]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-09-26T17:45:01.532255+01:00 mainframe CRON[38945]: pam_unix(cron:session): session closed for user root
+2024-09-26T17:46:27.643580+01:00 mainframe systemd-logind[758]: Power key pressed short.
+2024-09-26T17:46:27.648885+01:00 mainframe systemd-logind[758]: The system will power off now!
+2024-09-26T17:46:27.700043+01:00 mainframe systemd-logind[758]: System is powering down.
+2024-09-26T17:46:27.723181+01:00 mainframe gdm-password]: pam_unix(gdm-password:session): session closed for user johnnymusk
