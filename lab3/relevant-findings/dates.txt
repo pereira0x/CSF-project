@@ -1,0 +1,28 @@
+filter with ftp-data and we get the following files:
+
+BankStatement.pdf -> 21:51:20 2024-09-06 YYYY-MM-DD
+MKU Documentation.pdf -> 21:51:25 2024-09-06 YYYY-MM-DD
+rafael.eml -> 21:51:36 2024-09-06 YYYY-MM-DD
+
+context:
+
+we see that the IP .136 tried to login into .134
+attempts:
+- 126703	2024-09-06 21:50:43,543677437	194.210.61.136	194.210.61.134	FTP	82	Request: USER virgolino
+- 126706	2024-09-06 21:50:43,554820269	194.210.61.136	194.210.61.134	FTP	85	Request: PASS lsiurhgilsuh
+failed
+
+- 126719	2024-09-06 21:50:46,962637590	194.210.61.136	194.210.61.134	FTP	82	Request: USER virgolino
+- 126722	2024-09-06 21:50:46,964700978	194.210.61.136	194.210.61.134	FTP	83	Request: PASS juriodlgjd
+failed
+
+- 126733	2024-09-06 21:50:49,494817243	194.210.61.136	194.210.61.134	FTP	82	Request: USER virgolino
+- 126736	2024-09-06 21:50:49,496781684	194.210.61.136	194.210.61.134	FTP	79	Request: PASS ubuntu
+Login successful
+
+- 126768	2024-09-06 21:51:03,123495339	194.210.61.136	194.210.61.134	FTP	82	Request: USER virgolino
+- 126772	2024-09-06 21:51:05,351628545	194.210.61.136	194.210.61.134	FTP	79	Request: PASS ubuntu
+Login successful
+
+then he downloaded the files BankStatement.pdf and MKU Documentation.pdf and rafael.eml
+NOTE: the ftp server is EVA
