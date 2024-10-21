@@ -1,0 +1,10 @@
+ftp -> ftp.txt
+discord: (Miguel Estrela)
+    - websocket && ip.dst == 194.210.61.136 && http.proxy_connect_host == "gateway.discord.gg"
+    - 'data.data'
+completions:
+    - http.path_segment == "/complete/search" and ip.dst == {resolve_host("Router")}
+    - 'ip.src', 'frame.time_epoch', 'http2.headers.path'
+searches:
+    - http.path_segment == "/search" and ip.dst == {resolve_host("Router")}
+    - 'ip.src', 'frame.time_epoch', 'http2.headers.path'
