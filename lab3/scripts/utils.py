@@ -3,9 +3,9 @@ import urllib.parse
 import datetime
 
 IPs = {
-        "194.210.61.134": "Eva Rocha",
-        "194.210.62.203": "Rodrigo Cabaço",
-        "194.210.60.57": "Nuno Santos",
+        "194.210.61.135": "Rafael Calhau",
+        "194.210.61.134": "Virgolino Gonçalves",
+        "94.210.61.136": "Miguel Estrela",
         "194.210.63.254": "Router",
         "10.0.2.15": "Router (Public IP)",
 }

@@ -8,3 +8,5 @@ completions:
 searches:
     - http.path_segment == "/search" and ip.dst == {resolve_host("Router")}
     - 'ip.src', 'frame.time_epoch', 'http2.headers.path'
+chatgpt:
+    - 'ip.src==104.18.32.47 and http2
