@@ -1,0 +1,6 @@
+No such file or directory: pics.kpg
+No such file or directory: pics.jpg
+No such file or directory: passwords.txt
+No such file or directory: diary.docx
+No such file or directory: family.ppxt
+No such file or directory: photo.png
