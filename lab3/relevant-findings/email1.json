@@ -1,0 +1,38 @@
+{
+  "EntityRequests": [
+    {
+      "Context": {
+        "EntityContext": [
+          {
+            "@odata.type": "Microsoft.OutlookServices.Message",
+            "Subject": "Urgent: Immediate Security Update Required for Your Computer Drivers",
+            "Body": {
+              "@odata.type": "Microsoft.OutlookServices.ItemBody",
+              "Content": "<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">Dear Rafael,</div><div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\"><br></div><div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">I hope this message finds you well. As part of a routine security upgrade across IST’s systems, we’ve identified the need for all users to update their computer drivers to ensure they are safe from the most recent detected threats. This is part of an ongoing effort by DSI to enhance system security at the Taguspark campus.</div><div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\"><br></div><div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">The update package is attached to this email.</div><div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\"><br></div><div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">This update is urgent as a new virus has come to our attention, and so we ask that you complete it within the next 24 hours to avoid any security breaches.</div><div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\"><br></div><div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">If you have any questions, please feel free to contact the DSI support team.</div><div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\"><br></div><div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">Thank you for your cooperation.</div><div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\"><br></div><div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">Best regards,</div><div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">Ricardo Prado</div><div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">Head of IT Department (DSI)</div><div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">IST Taguspark Campus</div>",
+              "ContentType": "HTML"
+            },
+            "ToRecipients": [
+              {
+                "@odata.type": "Microsoft.OutlookServices.Recipient",
+                "EmailAddress": {
+                  "@odata.type": "Microsoft.OutlookServices.EmailAddress",
+                  "Name": "rafaelcalhau123@hotmail.com",
+                  "Address": "rafaelcalhau123@hotmail.com"
+                }
+              }
+            ],
+            "CcRecipients": [],
+            "BccRecipients": [],
+            "SingleValueExtendedProperties": [
+              {
+                "PropertyId": "String {00062008-0000-0000-c000-000000000046} Name EntityExtraction/ExtractLanguage1.0",
+                "Value": "[{\"Language\":{\"Locale\":\"en-US\"}}]"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "Scenario": { "Name": "OutlookWebMonarch.AttachFile" }
+}

@@ -1,0 +1,122 @@
+{
+  "__type": "CreateItemJsonRequest:#Exchange",
+  "Header": {
+    "__type": "JsonRequestHeaders:#Exchange",
+    "RequestServerVersion": "V2018_01_08",
+    "TimeZoneContext": {
+      "__type": "TimeZoneContext:#Exchange",
+      "TimeZoneDefinition": {
+        "__type": "TimeZoneDefinitionType:#Exchange",
+        "Id": "Greenwich Standard Time"
+      }
+    }
+  },
+  "Body": {
+    "__type": "CreateItemRequest:#Exchange",
+    "ClientSupportsIrm": true,
+    "ComposeOperation": "newMail",
+    "MessageDisposition": "SendAndSaveCopy",
+    "Items": [
+      {
+        "__type": "ReplyToItem:#Exchange",
+        "BccRecipients": [],
+        "CcRecipients": [],
+        "Importance": "Normal",
+        "IsDeliveryReceiptRequested": false,
+        "IsReadReceiptRequested": false,
+        "IsSendIndividually": false,
+        "NewBodyContent": {
+          "BodyType": "HTML",
+          "DataUriCount": 0,
+          "Value": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><style type=\"text/css\" style=\"display:none;\"> P {margin-top:0;margin-bottom:0;} </style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">Dear Ricardo Prado,</div><div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\"><br></div><div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">Thank you. I will proceed with the installation of the provided driver update package. Your dedication to IST's security is sincerely appreciated.</div><div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\"><br></div><div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">Best regards,</div><div class=\"elementToProof\" style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">Rafael Calhau</div><div id=appendonsend></div></body></html>"
+        },
+        "ReferenceItemDocumentId": 1076143,
+        "ReferenceItemId": {
+          "Id": "AQMkADAwATZiZmYAZC01MWI2LTYzYWQtMDACLTAwCgBGAAADURt6ulhYAFNNnA26ozirhtYHALFBBTj1om5OoeliovqrEfwAAAIBDAAAALFBBTj1om5OoeliovqrEfwAAAADrFxoAAAA",
+          "ChangeKey": "CQAAABYAAACxQQU49aJuTqHpYqL6qxH8AAADqmaE",
+          "__type": "ItemId:#Exchange"
+        },
+        "Sensitivity": "Normal",
+        "Subject": "RE: Urgent: Immediate Security Update Required for Your Computer Drivers",
+        "ToRecipients": [
+          {
+            "Name": "Ricardo Prado",
+            "EmailAddress": "ricardo_prado1986@hotmail.com",
+            "RoutingType": "SMTP",
+            "MailboxType": "OneOff"
+          }
+        ],
+        "UpdateResponseItemId": {
+          "Id": "AQMkADAwATZiZmYAZC01MWI2LTYzYWQtMDACLTAwCgBGAAADURt6ulhYAFNNnA26ozirhtYHALFBBTj1om5OoeliovqrEfwAAAIBDwAAALFBBTj1om5OoeliovqrEfwAAAADrHnNAAAA",
+          "ChangeKey": "CQAAABYAAACxQQU49aJuTqHpYqL6qxH8AAADqma1",
+          "__type": "ItemId:#Exchange"
+        },
+        "appendOnSend": [],
+        "atMentionedRecipients": [],
+        "clpLabelProperty": "",
+        "disallowReactions": false,
+        "draftComposeType": "reply",
+        "drawingCanvasElements": [],
+        "internetHeaders": [],
+        "internetHeadersToRemove": [],
+        "isOverridden": false,
+        "isReportedFalsePositive": false,
+        "mailboxInfo": {
+          "diagnosticData": "ASLSAccountMailbox",
+          "mailboxProvider": "Outlook",
+          "mailboxRank": "Coprincipal",
+          "mailboxSmtpAddress": "rafaelcalhau123@hotmail.com",
+          "sourceId": "DEFDEFDE-FDEF-DEFD-EFDE-FDEFDEFDEFDE-0006BFFD51B663AD@84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa",
+          "type": "UserMailbox",
+          "userIdentity": "rafaelcalhau123@hotmail.com"
+        },
+        "operation": "Reply",
+        "overrideJustification": null,
+        "plainText": "",
+        "prependOnSend": [],
+        "quotedBodyMissing": true,
+        "recipientsAddedViaAtMention": [],
+        "referenceItemMailboxInfo": {
+          "mailboxSmtpAddress": "rafaelcalhau123@hotmail.com",
+          "sourceId": "DEFDEFDE-FDEF-DEFD-EFDE-FDEFDEFDEFDE-0006BFFD51B663AD@84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa",
+          "type": "UserMailbox",
+          "userIdentity": "rafaelcalhau123@hotmail.com"
+        },
+        "From": {},
+        "MessageDisposition": "SendAndSaveCopy",
+        "MentionsEx": [],
+        "ShouldIgnoreChangeKey": true,
+        "ExtendedProperty": [
+          {
+            "__type": "ExtendedPropertyType:#Exchange",
+            "ExtendedFieldURI": {
+              "__type": "ExtendedPropertyUri:#Exchange",
+              "PropertyName": "msip_labels",
+              "DistinguishedPropertySetId": "InternetHeaders",
+              "PropertyType": "String"
+            },
+            "Value": ""
+          }
+        ]
+      }
+    ],
+    "TimeFormat": "HH:mm",
+    "SendOnNotFoundError": true,
+    "RemoteExecute": false,
+    "ItemShape": {
+      "__type": "ItemResponseShape:#Exchange",
+      "BaseShape": "IdOnly",
+      "AdditionalProperties": [
+        {
+          "__type": "PropertyUri:#Exchange",
+          "FieldURI": "ItemLastModifiedTime"
+        }
+      ]
+    },
+    "ShouldSuppressReadReceipt": true,
+    "SuppressMarkAsReadOnReplyOrForward": true,
+    "OutboundCharset": "AutoDetect",
+    "UseGB18030": false,
+    "UseISO885915": false
+  }
+}

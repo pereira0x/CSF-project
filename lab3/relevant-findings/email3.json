@@ -1,0 +1,171 @@
+{
+  "Header": {
+    "ServerVersionInfo": {
+      "MajorVersion": 15,
+      "MinorVersion": 20,
+      "MajorBuildNumber": 8026,
+      "MinorBuildNumber": 20,
+      "Version": "V2018_01_18"
+    }
+  },
+  "Body": {
+    "__type": "GetConversationItemsResponse:#Exchange",
+    "ResponseMessages": {
+      "Items": [
+        {
+          "__type": "GetConversationItemsResponseMessage:#Exchange",
+          "Conversation": {
+            "ConversationId": {
+              "__type": "ItemId:#Exchange",
+              "Id": "AQQkADAwATZiZmYAZC01MWI2LTYzYWQtMDACLTAwCgAQAHXY0m3T20NKkOOP9AxFubQ="
+            },
+            "SyncState": "AQEAAAACQg9x",
+            "ConversationNodes": [
+              {
+                "InternetMessageId": "<DB7P193MB045958E8C8AFC752EF1E05F1F07F2@DB7P193MB0459.EURP193.PROD.OUTLOOK.COM>",
+                "Items": [
+                  {
+                    "__type": "Message:#Exchange",
+                    "Sender": {
+                      "Mailbox": {
+                        "Name": "Rafael Calhau",
+                        "EmailAddress": "rafaelcalhau123@hotmail.com",
+                        "RoutingType": "SMTP",
+                        "MailboxType": "Mailbox"
+                      }
+                    },
+                    "ToRecipients": [
+                      {
+                        "Name": "adelinorebelodesousa@outlook.com",
+                        "EmailAddress": "adelinorebelodesousa@outlook.com",
+                        "RoutingType": "SMTP",
+                        "MailboxType": "OneOff",
+                        "Submitted": false
+                      }
+                    ],
+                    "ItemId": {
+                      "__type": "ItemId:#Exchange",
+                      "ChangeKey": "CQAAABYAAACxQQU49aJuTqHpYqL6qxH8AAACQFfj",
+                      "Id": "AQMkADAwATZiZmYAZC01MWI2LTYzYWQtMDACLTAwCgBGAAADURt6ulhYAFNNnA26ozirhtYHALFBBTj1om5OoeliovqrEfwAAAIBCQAAALFBBTj1om5OoeliovqrEfwAAAACQg9xAAAA"
+                    },
+                    "ParentFolderId": {
+                      "__type": "FolderId:#Exchange",
+                      "Id": "AQMkADAwATZiZmYAZC01MWI2LTYzYWQtMDACLTAwCgAuAAADURt6ulhYAFNNnA26ozirhtYBALFBBTj1om5OoeliovqrEfwAAAIBCQAAAA==",
+                      "ChangeKey": "AQAAAA=="
+                    },
+                    "ItemClass": "IPM.Note",
+                    "IsReadReceiptRequested": false,
+                    "Subject": "Progress Update on Our Masterplan",
+                    "IsDeliveryReceiptRequested": false,
+                    "Sensitivity": "Normal",
+                    "Importance": "Normal",
+                    "From": {
+                      "Mailbox": {
+                        "Name": "Rafael Calhau",
+                        "EmailAddress": "rafaelcalhau123@hotmail.com",
+                        "RoutingType": "SMTP",
+                        "MailboxType": "Mailbox"
+                      }
+                    },
+                    "DateTimeReceived": "2024-10-09T20:41:44Z",
+                    "InternetMessageId": "<DB7P193MB045958E8C8AFC752EF1E05F1F07F2@DB7P193MB0459.EURP193.PROD.OUTLOOK.COM>",
+                    "Size": 18518,
+                    "IsRead": true,
+                    "IsSubmitted": false,
+                    "IsDraft": false,
+                    "ReceivedRepresenting": {
+                      "Mailbox": {
+                        "Name": "Rafael Calhau",
+                        "EmailAddress": "rafaelcalhau123@hotmail.com",
+                        "RoutingType": "SMTP",
+                        "MailboxType": "Mailbox"
+                      }
+                    },
+                    "DateTimeSent": "2024-10-09T20:41:44Z",
+                    "DateTimeCreated": "2024-10-09T20:41:42Z",
+                    "ResponseObjects": [
+                      { "__type": "ReplyToItem:#Exchange" },
+                      { "__type": "ReplyAllToItem:#Exchange" },
+                      { "__type": "ForwardItem:#Exchange" }
+                    ],
+                    "RecipientCounts": { "ToRecipientsCount": 1 },
+                    "IsGroupEscalationMessage": false,
+                    "MessageSafety": { "MessageSafetyLevel": 2 },
+                    "DisplayTo": "adelinorebelodesousa@outlook.com",
+                    "HasAttachments": false,
+                    "ExtendedProperty": [
+                      {
+                        "ExtendedFieldURI": {
+                          "__type": "ExtendedPropertyUri:#Exchange",
+                          "PropertyTag": "0xe1d",
+                          "PropertyType": "String"
+                        },
+                        "Value": "Progress Update on Our Masterplan"
+                      },
+                      {
+                        "ExtendedFieldURI": {
+                          "__type": "ExtendedPropertyUri:#Exchange",
+                          "PropertyTag": "0x1016",
+                          "PropertyType": "Integer"
+                        },
+                        "Value": "3"
+                      },
+                      {
+                        "ExtendedFieldURI": {
+                          "__type": "ExtendedPropertyUri:#Exchange",
+                          "PropertyTag": "0x6815",
+                          "PropertyType": "Integer"
+                        },
+                        "Value": "1070104"
+                      },
+                      {
+                        "ExtendedFieldURI": {
+                          "__type": "ExtendedPropertyUri:#Exchange",
+                          "DistinguishedPropertySetId": "Common",
+                          "PropertyName": "DrawingCanvasElements",
+                          "PropertyType": "String"
+                        },
+                        "Value": "[]"
+                      }
+                    ],
+                    "TailoredXpCalendarEventIds": [],
+                    "LastModifiedTime": "2024-10-09T20:41:45Z",
+                    "ConversationId": {
+                      "__type": "ItemId:#Exchange",
+                      "Id": "AQQkADAwATZiZmYAZC01MWI2LTYzYWQtMDACLTAwCgAQAHXY0m3T20NKkOOP9AxFubQ="
+                    },
+                    "UniqueBody": {
+                      "BodyType": "HTML",
+                      "Value": "<style type=\"text/css\" style=\"display:none\">\r\n<!--\r\n.rps_f491 p\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style><div class=\"rps_f491\"><div dir=\"ltr\"><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">Dear Adelino,</div><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">I hope this email finds you well.</div><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">I wanted to update you that our masterplan is working smoothly, just as we anticipated. I’ve already received the first “commission” from the restaurants we’ve engaged with. It’s a promising sign that things are moving in the right direction, and this initial success only reaffirms that we’re on the right track.</div><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">I’ll continue monitoring the situation closely and ensure that we maintain this momentum. Let me know if there’s anything specific you’d like to discuss or adjust as we move forward.</div><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">Looking forward to hearing from you.</div><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">Best regards,</div><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">Professor Rafael Calhau</div></div></div>",
+                      "IsTruncated": false
+                    },
+                    "Flag": { "FlagStatus": "NotFlagged" },
+                    "InstanceKey": "AQEAAAAAAAEJAQAAAAJCD3EAAAAA",
+                    "EntityExtractionResult": {},
+                    "Preview": "Dear Adelino,\r\n\r\nI hope this email finds you well.\r\n\r\nI wanted to update you that our masterplan is working smoothly, just as we anticipated. I’ve already received the first “commission” from the restaurants we’ve engaged with. It’s a promising sign that ",
+                    "BlockStatus": false,
+                    "HasBlockedImages": false,
+                    "ReceivedOrRenewTime": "2024-10-09T20:41:44Z",
+                    "ConversationThreadId": {
+                      "__type": "ItemId:#Exchange",
+                      "Id": "AQQkADAwATZiZmYAZC01MWI2LTYzYWQtMDACLTAwCgMkABAAddjSbdPbQ0qQ44/0DEW5tBAAddjSbdPbQ0qQ44/0DEW5tA=="
+                    },
+                    "Apps": [],
+                    "InferenceClassification": "Focused",
+                    "CanDelete": true
+                  }
+                ],
+                "IsRootNode": true
+              }
+            ],
+            "TotalConversationNodesCount": 1,
+            "LastModifiedTime": null,
+            "ConversationDiagnosticsInfo": null
+          },
+          "ResponseCode": "NoError",
+          "ResponseClass": "Success"
+        }
+      ]
+    }
+  }
+}
